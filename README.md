@@ -1,2 +1,2 @@
 # Task-2
-This my responsive shoe landing page project.built with HTML and CSS to showcase modern, minimilist footwear through sleek and interactive user interface
+​I designed and developed a high-converting, visually striking landing page for a premium footwear brand, focusing on minimalist aesthetics and seamless product presentation.
